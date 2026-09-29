@@ -1,1 +1,1 @@
-# zapret-discord-youtube-win10
+# zapret-discord-youtube-win7 (beta)
